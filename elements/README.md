@@ -20,7 +20,7 @@ Fire symbolizes energy, power, force, inspiration, love, sexuality, passion, lif
 Fire symbols include the sun, stars, volcanoes, lava, eruptions, heat, flame, candles, bonfires, saunas, lightning, heated objects (stones in particular), fire forged objects, red feathers, blood, and sap. 
 
 
-- **Tarot Suit**: [Wands (🌱🔥)](#).
+- **Tarot Suit**: [Wands (🌱🔥)](#)
 - **Zodiac Signs**:	[Aries (♈︎)](#), [Leo (♌︎)](#), [Sagittarius (♐︎)](#)
 - **Planets**: [Mars (♂)](#), [Sun (☉)](#)
 
@@ -37,7 +37,7 @@ Water reflects emotions, feelings, the subconscious/ unconscious mind, intuition
 
 Water symbols include oceans, rivers, lakes, waterfalls, springs, wells, pools, fog, or rain.
 
-- **Tarot Suit**:  [Cups (🏺💧)](#).
+- **Tarot Suit**:  [Cups (🏺💧)](#)
 - **Zodiac Signs**: [Cancer (♋︎)](#), [Scorpio (♏︎)](#), [Pisces (♓︎)](#)
 - **Planets**:	[Neptune (♆)](#), [Venus (♀)](#), [Moon (☽)](#)
 
