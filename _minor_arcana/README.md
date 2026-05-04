@@ -1,6 +1,12 @@
 # The Minor Arcana
 
-The minor arcana is divided in four suits: Wands, Cups, Swords, and Pentacles. Each suit represents a domain of human life: 
+The minor arcana is divided in four suits: 
+- Wands
+- Cups
+- Swords
+- Pentacles
+
+Each suit represents a domain of human life. 
 
 ### Wands: Spiritual Domain
   
