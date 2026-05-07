@@ -1,30 +1,34 @@
 # The Minor Arcana
 
-The minor arcana is divided in four suits: 
-- Wands
-- Cups
-- Swords
-- Pentacles
+The Minor Arcana consists of 56 cards—out of a 78-card tarot deck—that represent daily life, temporary emotions, and specific actions. The minor arcana is divided in four suits: 
+- 🔥 Wands
+- 💧 Cups
+- ⚔️ Swords
+- ⭐ Pentacles
 
-Each suit represents a domain of human life. 
+Each suit map out practical domain of human life: 
+- Life Force & Directed Will
+- Emotions & Relationships
+- Conflicts & Judgments
+- Resources & Security
 
 <hr> 
 
-### 🔥 Wands: Spiritual Domain (Life)
+### 🔥 Wands: Life Force & Directed Will (Life)
   
 (Will, initiative, what is set in motion)
 
 <hr> 
 
-### 💧 Cups: Emotional / Relational Domain (Love)
+### 💧 Cups: Emotions & Relationships (Love)
 
 (Bonds, attachments, what is felt and valued between people)
 
 <hr> 
 
-### ⚔️ Swords: Principle of War & Peace (War)
+### ⚔️ Swords: Conflicts & Judgments (War)
 
-(Conflict, judgment, consequence within human systems)
+(Principle of War & Peace. Conflict & resolution within human systems)
 
 <hr> 
 
