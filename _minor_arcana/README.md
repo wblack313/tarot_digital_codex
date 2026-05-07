@@ -8,18 +8,26 @@ The minor arcana is divided in four suits:
 
 Each suit represents a domain of human life. 
 
-### Wands: Spiritual Domain
+<hr> 
+
+### 🔥 Wands: Spiritual Domain (Life)
   
 (Will, initiative, what is set in motion)
 
-### Cups: Emotional / Relational Domain
+<hr> 
+
+### 💧 Cups: Emotional / Relational Domain (Love)
 
 (Bonds, attachments, what is felt and valued between people)
 
-### Swords: Social / Political Domain
+<hr> 
+
+### ⚔️ Swords: Principle of War & Peace (War)
 
 (Conflict, judgment, consequence within human systems)
 
-### Pentacles: Physical Domain
+<hr> 
+
+### ⭐ Pentacles: Resources & Material Security (Peace)
 
 (Material conditions, labor, what is built and sustained)
