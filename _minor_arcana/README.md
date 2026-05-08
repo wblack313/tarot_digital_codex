@@ -7,10 +7,10 @@ The Minor Arcana consists of 56 cards—out of a 78-card tarot deck—that repre
 - ⭐ Pentacles
 
 Each suit map out practical domain of human life: 
-- Life Force & Directed Will
-- Emotions & Relationships
-- War & Politics
-- Resources & Security
+- ⚡ Life Force & Directed Will
+- ❤️ Emotions & Relationships
+- 💥 War & Politics (Strategy & Tactics)
+- 💰 Resource Management 
 
 <hr> 
 
@@ -32,6 +32,6 @@ Each suit map out practical domain of human life:
 
 <hr> 
 
-### ⭐ Pentacles: Resources & Material Security (Peace)
+### ⭐ Pentacles: Resource Management (Peace)
 
 (Material conditions, labor, what is built and sustained)
