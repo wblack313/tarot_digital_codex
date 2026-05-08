@@ -9,7 +9,7 @@ The Minor Arcana consists of 56 cards—out of a 78-card tarot deck—that repre
 Each suit map out practical domain of human life: 
 - Life Force & Directed Will
 - Emotions & Relationships
-- Conflicts & Judgments
+- War & Politics
 - Resources & Security
 
 <hr> 
@@ -26,7 +26,7 @@ Each suit map out practical domain of human life:
 
 <hr> 
 
-### ⚔️ Swords: Conflicts & Judgments (War)
+### ⚔️ Swords: War & Politics (War)
 
 (Principle of War & Peace. Conflict & resolution within human systems)
 
