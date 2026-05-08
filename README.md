@@ -1,2 +1,2 @@
-# tarot_digital_codex
+# Seraph's Tarot Digital Codex
 Personal Tarot Log
