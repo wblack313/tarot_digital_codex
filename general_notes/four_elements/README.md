@@ -71,3 +71,7 @@ Earth symbolizes foundation, patience, practicality, and, in many traditions, th
 - **Tarot Suit**: [Pentacles (🌎⛤)](#)
 - **Zodiac Signs**:	[Taurus (♉︎)](#), [Virgo (♍︎)](#), [Capricorn (♑︎)](#)
 
+
+---
+### [<<< BACK TO MAIN DIRECTORY](https://github.com/wblack313/tarot_digital_codex)
+
