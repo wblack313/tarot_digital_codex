@@ -8,12 +8,12 @@ The Minor Arcana consists of 56 cards—out of a 78-card tarot deck—that repre
 
 Each suit map out practical domain of human life: 
 - 🌌 Life Force & Creative Power, Principle of Fire 🔥
-- ❤️ Emotional/Relational Force, Principle of Water 💧
+- 😍 Emotional/Relational Force, Principle of Water 💧
 - ⚖️ War & Politics, Principle of Air 💨
-- 💰 Material Resource Management, Principle of Earth 🌱
+- 💵 Material Resource Management, Principle of Earth 🌱
 
 And the Major Arcana:
-- ✨ Archetypal Wisdom, Principle of Spirit 🕊️
+- ✨ The Greater Enigma, Principle of Spirit 🕊️
 
 <hr> 
 
