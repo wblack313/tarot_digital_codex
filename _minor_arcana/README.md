@@ -13,7 +13,7 @@ Each suit map out practical domain of human life:
 - 💰 Material Resource Management, Principle of Earth 🌱
 
 And the Major Arcana:
-- ✨ Archetypes & Spiritual Lessons, Principle of Spirit 🕊️
+- ✨ Archetypes & the Greater Lessons, Principle of Spirit 🕊️
 
 <hr> 
 
