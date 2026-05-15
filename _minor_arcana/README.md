@@ -10,7 +10,7 @@ Each suit map out practical domain of human life:
 - 🌌 Life Force & Creative Power, Principle of Fire 🔥
 - 😍 Emotional/Relational Force, Principle of Water 💧
 - ⚖️ War & Politics, Principle of Air 💨
-- 💵 Material Resource Management, Principle of Earth 🌱
+- 💵 Wealth & Material Management, Principle of Earth 🌱
 
 And the Major Arcana:
 - ✨ The Greater Enigma, Principle of Spirit 🕊️
