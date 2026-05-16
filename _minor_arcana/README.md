@@ -8,33 +8,40 @@ The Minor Arcana consists of 56 cards—out of a 78-card tarot deck—that repre
 
 Each suit map out practical domain of human life: 
 - 🌌 Life Force & Creative Power, Principle of Fire 🔥
-- 😍 Emotional/Relational Force, Principle of Water 💧
+- ❤️ Emotional/Relational Force, Principle of Water 💧
 - ⚖️ War & Politics, Principle of Air 💨
 - 💵 Wealth & Material Management, Principle of Earth 🌱
 
-And the Major Arcana:
-- ✨ The Greater Enigma, Principle of Spirit 🕊️
+<hr> 
+
+## 🌌 Life Force & Creative Powern (Life)
+
+Will, initiative, what is set in motion
+
+### Principle of Fire 🔥 
+ 
+<hr> 
+
+## ❤️ Emotional/Relational Force (Love)
+
+Bonds, attachments, what is felt and valued between people
+
+### Principle of Water 💧
 
 <hr> 
 
-### 🔥 Wands: Life Force & Directed Will (Life)
-  
-(Will, initiative, what is set in motion)
+## ⚖️ War & Politics (War)
 
+Conflict & resolution within human systems
+
+### Principle of Air 💨 
+ 
 <hr> 
 
-### 💧 Cups: Emotions & Relationships (Love)
+## 💵 Wealth & Material Management (Peace)
 
-(Bonds, attachments, what is felt and valued between people)
+Material conditions, labor, what is built and sustained
 
-<hr> 
+### Principle of Earth 🌱 
 
-### ⚔️ Swords: War & Politics (War)
 
-(Principle of War & Peace. Conflict & resolution within human systems)
-
-<hr> 
-
-### ⭐ Pentacles: Resource Management (Peace)
-
-(Material conditions, labor, what is built and sustained)
