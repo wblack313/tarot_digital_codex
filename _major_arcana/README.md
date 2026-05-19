@@ -1,4 +1,3 @@
 
 The Major Arcana maps to the following domain:
-- ✨ High Secrets & Mysteries, Principle of Spirit 🕊️
-- ✨ The Greater Mysteries,
+- 🧿 Apocalypse, Keys & Revelations - Principle of Spirit 🕊️
