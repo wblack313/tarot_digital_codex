@@ -14,34 +14,6 @@ Each suit map out practical domain of human life:
 
 <hr> 
 
-## 🌌 Life Force & Creative Powern (Life)
+Alternative:  
 
-Will, initiative, what is set in motion
-
-### Principle of Fire 🔥 
- 
-<hr> 
-
-## ❤️ Emotional/Relational Force (Love)
-
-Bonds, attachments, what is felt and valued between people
-
-### Principle of Water 💧
-
-<hr> 
-
-## ⚖️ War & Politics (War)
-
-Conflict & resolution within human systems
-
-### Principle of Air 💨 
- 
-<hr> 
-
-## 💵 Wealth & Material Management (Peace)
-
-Material conditions, labor, what is built and sustained
-
-### Principle of Earth 🌱 
-
-
+-💥 Spirit, Primal Energy & Strength - Principle of Fire 🔥
