@@ -40,3 +40,11 @@ The Zodiac represents twelve archetypal patterns through which human temperament
 | Aquarius ♒ | Uranus ♅ *(Traditional: Saturn ♄)* |
 | Pisces ♓ | Neptune ♆ *(Traditional: Jupiter ♃)* |
 
+---
+
+# Notes
+
+- The four classical elements — Fire 🜂, Earth 🜃, Air 🜁, and Water 🜄 — describe the energetic temperament underlying each zodiac sign.
+- Traditional astrology originally assigned rulerships only through Saturn; Uranus, Neptune, and Pluto were integrated later into modern astrological systems.
+- Many Tarot systems utilize zodiac correspondences symbolically rather than deterministically.
+- Zodiac symbolism is most effective when treated as an interpretive framework that complements the imagery and structure of the cards themselves.
