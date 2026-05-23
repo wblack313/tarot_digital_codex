@@ -4,6 +4,25 @@ Planetary symbolism has long been used in Tarot, astrology, mythology, and alche
 
 ---
 
+## Numbers & Planetary Correspondences
+
+| Number | Planet | Symbol |
+|---|---|---|
+| 1 | Sun | ☉ |
+| 2 | Moon | ☽ |
+| 3 | Jupiter | ♃ |
+| 4 | Uranus *(Traditional: Sun)* | ♅ |
+| 5 | Mercury | ☿ |
+| 6 | Venus | ♀ |
+| 7 | Neptune *(Traditional: Moon)* | ♆ |
+| 8 | Saturn | ♄ |
+| 9 | Mars | ♂ |
+
+---
+
+
+
+---
 ## Classical Planetary Reference Table
 
 | Planet  | Symbol | Core Keywords                                                     |
@@ -20,7 +39,41 @@ Planetary symbolism has long been used in Tarot, astrology, mythology, and alche
 | Pluto   | ♇      | Transformation, death, rebirth, power, obsession, regeneration    |
 
 ---
+## Planetary Number Correspondences
 
+Planetary number correspondences originate from ancient astrology, numerology, and occult philosophy. These symbolic associations were later integrated into Tarot, alchemy, and Hermetic systems as a method of organizing archetypal forces and psychological patterns.
+
+---
+
+## Traditional Chaldean System
+
+| Number | Planet | Symbol |
+|---|---|---|
+| 1 | Sun | ☉ |
+| 2 | Moon | ☽ |
+| 3 | Jupiter | ♃ |
+| 4 | Uranus *(modern assignment)* | ♅ |
+| 5 | Mercury | ☿ |
+| 6 | Venus | ♀ |
+| 7 | Neptune *(modern assignment)* | ♆ |
+| 8 | Saturn | ♄ |
+| 9 | Mars | ♂ |
+
+---
+
+# Notes
+
+- The Chaldean numerological system is one of the oldest surviving planetary-number systems.
+- Traditional systems originally excluded Uranus, Neptune, and Pluto because they had not yet been discovered.
+- Modern occult traditions later assigned:
+  - Uranus → 4
+  - Neptune → 7
+  - Pluto → sometimes associated with 0 or higher octaves of Mars.
+- These correspondences are symbolic frameworks rather than fixed laws.
+- In Tarot, planetary numbers are best used as supporting symbolic layers rather than rigid interpretive rules.
+
+
+---
 # Planetary Rulerships
 
 | Planet | Ruling Zodiac Signs |
