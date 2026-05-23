@@ -21,6 +21,23 @@ Planetary symbolism has long been used in Tarot, astrology, mythology, and alche
 
 ---
 
+# Planetary Rulerships
+
+| Planet | Ruling Zodiac Signs |
+|---|---|
+| Sun ☉ | Leo ♌ |
+| Moon ☽ | Cancer ♋ |
+| Mercury ☿ | Gemini ♊, Virgo ♍ |
+| Venus ♀ | Taurus ♉, Libra ♎ |
+| Mars ♂ | Aries ♈ *(Traditional: Scorpio ♏)* |
+| Jupiter ♃ | Sagittarius ♐ *(Traditional: Pisces ♓)* |
+| Saturn ♄ | Capricorn ♑ *(Traditional: Aquarius ♒)* |
+| Uranus ♅ | Aquarius ♒ |
+| Neptune ♆ | Pisces ♓ |
+| Pluto ♇ | Scorpio ♏ |
+
+---
+
 ## Traditional Planetary Temperaments
 
 | Planet  | Traditional Nature | Symbolic Function                    |
