@@ -20,6 +20,19 @@ Planetary number correspondences originate from ancient astrology, numerology, a
 | 9   | Mars                          | ♂      | Conflict, aggression, ambition, force, courage, assertion         | Severing           |
 
 ---
+## Notes:
+
+- The seven classical planets (Sun through Saturn) formed the foundation of ancient astrology and traditional esoteric systems.
+- Uranus, Neptune, and Pluto are modern discoveries and were later integrated into occult and psychological interpretations.
+- Traditional Chaldean systems originally excluded Uranus, Neptune, and Pluto because they were unknown in the ancient world.
+- Modern occult traditions later assigned:
+  - Uranus → 4
+  - Neptune → 7
+  - Pluto → sometimes associated with 0 or higher octaves of Mars
+- In Tarot practice, planetary symbolism should reinforce interpretation rather than override the imagery, card position, or spread context.
+- Planetary correspondences are symbolic frameworks, not fixed laws.
+
+---
 ## Planetary Rulerships
 
 | Planet | Ruling Zodiac Signs |
@@ -35,15 +48,3 @@ Planetary number correspondences originate from ancient astrology, numerology, a
 | Neptune ♆ | Pisces ♓ |
 | Pluto ♇ | Scorpio ♏ |
 
----
-## Notes:
-
-- The seven classical planets (Sun through Saturn) formed the foundation of ancient astrology and traditional esoteric systems.
-- Uranus, Neptune, and Pluto are modern discoveries and were later integrated into occult and psychological interpretations.
-- Traditional Chaldean systems originally excluded Uranus, Neptune, and Pluto because they were unknown in the ancient world.
-- Modern occult traditions later assigned:
-  - Uranus → 4
-  - Neptune → 7
-  - Pluto → sometimes associated with 0 or higher octaves of Mars
-- In Tarot practice, planetary symbolism should reinforce interpretation rather than override the imagery, card position, or spread context.
-- Planetary correspondences are symbolic frameworks, not fixed laws.
