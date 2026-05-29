@@ -6,7 +6,7 @@ And in the Tarot, each of the Suits is related to one of these four elements.
 
 <hr>
 
-## Fire 🜂
+## <a id ="fire"> Fire 🜂 </a>
 
 Fire is the chemical process of rapid oxidation (combustion) that releases light, heat, and flame. It requires fuel, oxygen, and heat, and acts as both a constructive tool (cooking, heating) and a destructive force (wildfires). 
 
@@ -26,7 +26,7 @@ Fire symbols include the sun, stars, volcanoes, lava, eruptions, heat, flame, ca
 
 <hr>
 
-## Water  🜄
+## <a id ="water"> Water  🜄 </a>
 
 Water (H20) is a transparent, odorless, tasteless inorganic compound, essential for all known living organisms. 
 
