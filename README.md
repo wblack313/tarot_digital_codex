@@ -16,7 +16,7 @@ Learn the structure first; interpretation becomes easier afterward.
 Begin with:
 
 - 🔗 [Four Elements](/general_notes/four_elements)
-- 🔗 [Four Suits](#)
+- 🔗 [Four Suits](/_minor_arcana)
 - 🔗 [Numerology](/general_notes/numerology)
 - 🔗 [Court Cards](#)
 
