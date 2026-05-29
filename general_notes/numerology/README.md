@@ -51,7 +51,8 @@
 8 → Mastery
 9 → Completion
 10 → Renewal / Return to Origin
-
+```
 ---
 ### [<<< BACK TO MAIN DIRECTORY](https://github.com/wblack313/tarot_digital_codex)
+
 
