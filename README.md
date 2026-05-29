@@ -18,7 +18,7 @@ Begin with:
 - 🔗 [Four Elements](/general_notes/four_elements)
 - 🔗 [Four Suits](/_minor_arcana)
 - 🔗 [Numerology](/general_notes/numerology)
-- 🔗 [Court Cards](#)
+- 🔗 [Court Cards](/general_notes/court_cards)
 
 ---
 
