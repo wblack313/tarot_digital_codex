@@ -1,4 +1,6 @@
-# Court Cards — Archetypal Function System
+# Court Cards 
+
+## Archetypal Function System
 
 The Court Cards can be understood as a **four-stage model of human cognition and agency**. Rather than fixed personalities, they represent **functional roles in the processing of experience**: how reality is received, acted upon, internalized, and governed.
 
@@ -143,3 +145,7 @@ This framework can be expanded into:
 - Elemental Court variations (Fire, Water, Air, Earth expressions)  
 - Jungian mapping (Persona, Shadow, Ego, Self dynamics)  
 - Integration into numerical or factorial Tarot systems  
+
+---
+### [<<< BACK TO MAIN DIRECTORY](https://github.com/wblack313/tarot_digital_codex)
+
