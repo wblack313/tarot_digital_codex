@@ -11,3 +11,7 @@ Each suit map out practical domain of human life:
 - ❤️ Heart, Emotional Core & Love - Principle of Water 💧
 - 👑 Power, Kingdoms & Warfare - Principle of Air 💨
 - 💰 Wealth, Resources & Wellbeing - Principle of Earth 🌱
+
+
+---
+### [<<< BACK TO MAIN DIRECTORY](https://github.com/wblack313/tarot_digital_codex)
