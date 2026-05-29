@@ -109,6 +109,12 @@ The Court Cards form a **functional cycle of human agency**:
 | 👑 Queen | Mother | Internalization | Shapes reality inwardly |
 | 🜂 King | Father | Governance | Defines reality outwardly |
 
+- 🜁 Page → Reception (pre-structure awareness)
+- ⚔️ Knight → Externalization (force in motion)
+- 👑 Queen → Internalization (form-building)
+- 🜂 King → Stabilization (system maintenance)
+
+
 ---
 
 ## 🧭 Interpretive Model
