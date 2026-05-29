@@ -58,7 +58,7 @@ Air signifies the mind and intelligence, knowledge, communication, inspiration, 
 
 <hr> 
 
-## Earth 🜃 	
+## <a id ="earth"> Earth 🜃 	</a>
 
 Earth is the third planet from the Sun, our home, and the only known planet to harbor life, featuring a rocky surface, atmosphere, and liquid water. Earth is also one of the four classical elements (with fire, air, and water), representing stability, grounding, fertility, materiality, and the physical, solid world. 
 
