@@ -109,6 +109,8 @@ The Court Cards form a **functional cycle of human agency**:
 | 👑 Queen | Mother | Internalization | Shapes reality inwardly |
 | 🜂 King | Father | Governance | Defines reality outwardly |
 
+---
+
 - 🜁 Page → Reception (pre-structure awareness)
 - ⚔️ Knight → Externalization (force in motion)
 - 👑 Queen → Internalization (form-building)
@@ -119,10 +121,10 @@ The Court Cards form a **functional cycle of human agency**:
 
 ## Now combine with suits:
 
-Page of Swords → perceiving conflict, noticing tension, gathering information in social dynamics
-Knight of Wands → pursuing action, advancing will, initiating movement
-Queen of Cups → regulating emotional bonds, managing relational depth
-King of Pentacles → directing material stability, controlling resources
+- Page of Swords → perceiving conflict, noticing tension, gathering information in social dynamics
+- Knight of Wands → pursuing action, advancing will, initiating movement
+- Queen of Cups → regulating emotional bonds, managing relational depth
+- King of Pentacles → directing material stability, controlling resources
 
 
 
