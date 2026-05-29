@@ -117,6 +117,17 @@ The Court Cards form a **functional cycle of human agency**:
 
 ---
 
+## Now combine with suits:
+
+Page of Swords → perceiving conflict, noticing tension, gathering information in social dynamics
+Knight of Wands → pursuing action, advancing will, initiating movement
+Queen of Cups → regulating emotional bonds, managing relational depth
+King of Pentacles → directing material stability, controlling resources
+
+
+
+---
+
 ## 🧭 Interpretive Model
 
 When Court Cards appear in readings, they may be interpreted in two primary ways:
