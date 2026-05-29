@@ -6,9 +6,9 @@ And in the Tarot, each of the Suits is related to one of these four elements.
 
 <hr>
 
-## Fire 🜂 
-
 <a id="fire"> </a>
+
+## Fire 🜂 
 
 Fire is the chemical process of rapid oxidation (combustion) that releases light, heat, and flame. It requires fuel, oxygen, and heat, and acts as both a constructive tool (cooking, heating) and a destructive force (wildfires). 
 
@@ -28,9 +28,10 @@ Fire symbols include the sun, stars, volcanoes, lava, eruptions, heat, flame, ca
 
 <hr>
 
+<a id="water"></a>
+
 ##  Water  🜄 
 
-<a id="water"></a>
 
 Water (H20) is a transparent, odorless, tasteless inorganic compound, essential for all known living organisms. 
 
@@ -47,10 +48,9 @@ Water symbols include oceans, rivers, lakes, waterfalls, springs, wells, pools, 
 
 <hr> 
 
-## Air 🜁
-
 <a id="air"></a>
 
+## Air 🜁
 
 Air is the invisible mixture of gases (chiefly nitrogen and oxygen) that forms the Earth's atmosphere.
 
@@ -65,8 +65,10 @@ Air signifies the mind and intelligence, knowledge, communication, inspiration, 
 
 <hr> 
 
-##  Earth 🜃 	
 <a id="earth"></a>
+
+##  Earth 🜃 	
+
 Earth is the third planet from the Sun, our home, and the only known planet to harbor life, featuring a rocky surface, atmosphere, and liquid water. Earth is also one of the four classical elements (with fire, air, and water), representing stability, grounding, fertility, materiality, and the physical, solid world. 
 
 > "The earth has enough for every person's need, but not for every person's greed."
