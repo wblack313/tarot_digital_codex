@@ -5,8 +5,8 @@ There are four classical elements – water, fire, earth and air – each with i
 And in the Tarot, each of the Suits is related to one of these four elements.
 
 <hr>
-
-## <a id ="fire"> Fire 🜂 </a>
+<a id ="fire"> </a>
+## Fire 🜂 
 
 Fire is the chemical process of rapid oxidation (combustion) that releases light, heat, and flame. It requires fuel, oxygen, and heat, and acts as both a constructive tool (cooking, heating) and a destructive force (wildfires). 
 
@@ -25,8 +25,8 @@ Fire symbols include the sun, stars, volcanoes, lava, eruptions, heat, flame, ca
 - **Planets**: [Mars (♂)](#), [Sun (☉)](#)
 
 <hr>
-
-## <a id ="water"> Water  🜄 </a>
+<a id ="water"></a>
+##  Water  🜄 
 
 Water (H20) is a transparent, odorless, tasteless inorganic compound, essential for all known living organisms. 
 
