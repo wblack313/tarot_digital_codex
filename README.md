@@ -24,16 +24,18 @@ Begin with:
 
 Once you understand the structure of the Minor Arcana, begin studying the Major Arcana, which represent larger archetypal lessons, transformations, and stages of human development.
 
-- 🔗 [Major Arcana](#)
+- 🔗 [Major Arcana](/_major_arcana)
 
 ---
 
 After becoming familiar with the Major Arcana, begin exploring more advanced correspondences and symbolic systems:
 
-- 🔗 [Astrology](#)
-- 🔗 [Psychology](#)
-- 🔗 [Mythology](#)
-- 🔗 [Symbolism](#)
+- 🔗 [Astrology](/general_notes/astrology)
+- 🔗 [Psychology](/general_notes/psychology/)
+- 🔗 [Mythology](/general_notes/mythology)
+- 🔗 [Colors](/general_notes/colors)
+- 🔗 [Symbolism](/general_notes/symbolism)
+
 
 ---
 
