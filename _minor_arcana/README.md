@@ -10,9 +10,8 @@ The Minor Arcana consists of 56 cards—out of a 78-card tarot deck—that repre
 Each suit map out practical domain of human life: 
 - 🐉 **Spirit**, _Energetic Force & Strength_ - [Principle of Fire](../general_notes/four_elements/README.md#fire)  🔥
 - ❤️ **Heart**, _Emotional Core & Love_ - [Principle of Water](../general_notes/four_elements/README.md#water) 💧
-- ⚔️ **Victory**, _Duty, Honor & the Warrior's Ethos_ - [Principle of Air](../general_notes/four_elements/README.md#earth)  💨
+- ⚔️ **Victory**, _Conquest & Warfare_ - [Principle of Air](../general_notes/four_elements/README.md#earth)  💨
 - 💰 **Wealth**, _Resources & Wellbeing_ - [Principle of Earth](../general_notes/four_elements/README.md#earth) 🌱
-
 
 ---
 ### [<<< BACK TO MAIN DIRECTORY](https://github.com/wblack313/tarot_digital_codex)
